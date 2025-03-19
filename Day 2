@@ -1,0 +1,19 @@
+Introduction of Linux 
+History of Linux 
+Why Linux
+benefits of Linux
+Linux Distributions
+
+Commands executed in Class:
+----------------------------
+
+Note: This Text Editor Conatins Daily Commands executed during class.
+276  cat /etc/passwd
+  277  cat /etc/shadow
+  278  cat /etc/group
+  279  cd /var/log/
+  280  ll
+  281  ls -ltrh
+  282  clear
+  283  ll /etc/ssh/sshd_config.d/
+  284  ll /etc/ssh/sshd_config
